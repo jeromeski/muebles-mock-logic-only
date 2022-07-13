@@ -4,12 +4,9 @@ import {
   useReducer,
   useMemo,
   useEffect
-  // useRef
 } from "react";
 import { cartReducer, INITIAL_STATE } from "./cart.reducer";
-// import useLocalStorage from "hooks/use-local-storage";
-// import { update } from 'lodash';
-import { useLocalStorage } from "react-use";
+import { useLocalStorage } from "hooks/use-local-storage";
 
 const CartContext = createContext();
 
@@ -32,23 +29,23 @@ const CartProvider = ({ children }) => {
     saveCart(JSON.stringify(state));
   }, [state, saveCart]);
 
-  const incQty = (item, qty) => {
+  const increaseQty = (item, qty) => {
     dispatch({
-      type: "INC_QTY",
+      type: "INCREASE_QTY",
       item,
       qty
     });
   };
 
-  const decQty = (item, qty) => {
+  const decreaseQty = (item, qty) => {
     dispatch({
-      type: "DEC_QTY",
+      type: "DECREASE_QTY",
       item,
       qty
     });
   };
 
-  const delItem = (item) => {
+  const deleteItem = (item) => {
     dispatch({
       type: "DELETE_ITEM",
       item
@@ -82,9 +79,9 @@ const CartProvider = ({ children }) => {
   const values = useMemo(
     () => ({
       ...state,
-      incQty,
-      decQty,
-      delItem,
+      increaseQty,
+      decreaseQty,
+      deleteItem,
       addItem,
       isInCartHandler,
       applyVoucher,

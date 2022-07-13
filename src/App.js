@@ -1,6 +1,6 @@
 import { QueryClient, QueryClientProvider } from "react-query";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import CartProvider from "./context/cart.context";
+import CartProvider from "context/cart/cart.context";
 import Home from "./pages/home";
 import "./styles.css";
 function App() {

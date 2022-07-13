@@ -1,5 +1,4 @@
-// import _ from "lodash";
-
+import deepClone from "../../utils/deep-clone";
 import {
   removeItemQuantity,
   addItemQuantity,
@@ -23,7 +22,7 @@ const INITIAL_STATE = {
 };
 
 const cartReducer = (origState, action) => {
-  const state = JSON.parse(JSON.stringify(origState));
+  const state = deepClone(origState);
   switch (action.type) {
     case "INCREASE_QTY": {
       const items = addItemQuantity(state.items, action.item, action.qty);
