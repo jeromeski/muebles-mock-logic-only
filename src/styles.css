@@ -7,8 +7,8 @@
   background-color: gainsboro;
   padding: 10px;
   margin-bottom: 1rem;
-  border-top-left-radius: 10px;
-  border-bottom-left-radius: 10px;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
 }
 
 .card-media {
@@ -21,6 +21,8 @@
 .card-thumb {
   height: auto;
   max-width: 100%;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
 
 .ml-1 {
