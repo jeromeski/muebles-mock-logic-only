@@ -9,6 +9,18 @@
   margin-bottom: 1rem;
 }
 
+.card-media {
+  height: 120px;
+  width: 120px;
+  float: left;
+  padding-right: 1rem;
+}
+
+.card-thumb {
+  height: auto;
+  max-width: 100%;
+}
+
 .ml-1 {
   margin-left: 1rem;
 }

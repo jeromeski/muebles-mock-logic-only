@@ -1,4 +1,4 @@
-const ProductCard = ({ title, price, ratings, salePrice }) => {
+const ProductCard = ({ title, price, ratings, salePrice, image }) => {
   const getAvgRatings = () => {
     const ratingsArr = ratings.map((r) => r.rating);
     const averageRating = ratingsArr.reduce((total, r) => {
@@ -8,17 +8,22 @@ const ProductCard = ({ title, price, ratings, salePrice }) => {
   };
   return (
     <div className="bg-card">
-      <pre>{title}</pre>
-      {salePrice !== 0 && (
-        <pre>
-          ${salePrice}&nbsp;
-          <del>${price}</del>
-        </pre>
-      )}
-      {!salePrice && <pre>${price}</pre>}
-      <pre>rating: {Math.floor(getAvgRatings())} stars</pre>
-      <button>add to cart</button>
-      <button className="ml-1">view details</button>
+      <div className="card-media">
+        <img className="card-thumb" src={image} alt={title} />
+      </div>
+      <div className="card-content">
+        <pre>{title}</pre>
+        {salePrice !== 0 && (
+          <pre>
+            ${salePrice}&nbsp;
+            <del>${price}</del>
+          </pre>
+        )}
+        {!salePrice && <pre>${price}</pre>}
+        <pre>rating: {Math.floor(getAvgRatings())} stars</pre>
+        <button>add to cart</button>
+        <button className="ml-1">view details</button>
+      </div>
     </div>
   );
 };
