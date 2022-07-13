@@ -1,5 +1,5 @@
-import muebles from "./muebles-db.json";
 import _ from "lodash";
+import muebles from "./muebles-db.json";
 import { useQuery } from "react-query";
 import axios from "axios";
 import MockAdapter from "axios-mock-adapter";
@@ -39,14 +39,28 @@ async function getProducts() {
   try {
     return await axios
       .get("/api/e-commerce-app/products")
-      .then((res) => res.data);
+      .then((res) => res.data.mueblesDB);
   } catch (error) {
     throw new Error(error);
   }
 }
 
 export function useGetProducts() {
-  return useQuery("packages", () => getProducts());
+  return useQuery("products", () => getProducts());
+}
+
+async function getProduct(id) {
+  try {
+    return await axios
+      .get("/api/e-commerce-app/products", { id })
+      .then((res) => res.data);
+  } catch (error) {
+    throw new Error(error);
+  }
+}
+
+export function useGetProduct() {
+  return useQuery("product", (id) => getProduct(id));
 }
 
 // mock.onGet("/api/e-commerce-app/orders").reply(() => {
