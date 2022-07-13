@@ -25,7 +25,7 @@ function App() {
           {feed ? (
             feed?.map((f) => {
               return (
-                <Col xs={6} lg={4} key={f.id}>
+                <Col xs={12} sm={6} lg={4} key={f.id}>
                   <ProductCard {...f} />
                 </Col>
               );
