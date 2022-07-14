@@ -1,0 +1,32 @@
+.card-wrap {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.card-container {
+  background-color: white;
+}
+
+.card-media {
+  height: auto;
+  width: 100%;
+  /* float: left; */
+  /* padding-right: 1rem; */
+}
+
+.card-thumb {
+  /* height: auto; */
+  max-width: 100%;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.card-content {
+  padding: 0 15px 15px 15px;
+}
+
+.card-action {
+  display: flex;
+  justify-content: space-between;
+}

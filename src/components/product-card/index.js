@@ -1,18 +1,16 @@
-const ProductCard = ({ title, price, ratings, salePrice, image }) => {
-  const getAvgRatings = () => {
-    const ratingsArr = ratings.map((r) => r.rating);
-    const averageRating = ratingsArr.reduce((total, r) => {
-      return r + total / ratings.length;
-    });
-    return averageRating;
-  };
+import { getAvgRatings } from "utils";
+import { useNavigate } from "react-router-dom";
+import "./product-card-style.css";
+
+const ProductCard = ({ title, price, ratings, salePrice, image, slug }) => {
+  const navigate = useNavigate();
   return (
-    <div className="bg-card">
+    <div className="card-container">
       <div className="card-media">
         <img className="card-thumb" src={image} alt={title} />
       </div>
       <div className="card-content">
-        <pre>{title}</pre>
+        <pre>{title.substring(0, 25)}</pre>
         {salePrice !== 0 && (
           <pre>
             ${salePrice}&nbsp;
@@ -20,9 +18,19 @@ const ProductCard = ({ title, price, ratings, salePrice, image }) => {
           </pre>
         )}
         {!salePrice && <pre>${price}</pre>}
-        <pre>rating: {Math.floor(getAvgRatings())} stars</pre>
-        <button>add to cart</button>
-        <button className="ml-1">view details</button>
+        <pre>
+          rating: {Math.floor(getAvgRatings(ratings))} stars ({ratings.length})
+        </pre>
+        <div className="card-action">
+          <button>add to cart</button>
+          <button
+            className="ml-1"
+            type="button"
+            onClick={() => navigate(`/${slug}`)}
+          >
+            view details
+          </button>
+        </div>
       </div>
     </div>
   );

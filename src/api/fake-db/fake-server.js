@@ -10,8 +10,13 @@ let { mueblesDB } = muebles;
 mock.onGet("/api/e-commerce-app/products").reply(200, { mueblesDB });
 
 mock.onGet("/api/e-commerce-app/product").reply((request) => {
-  const { productId } = request.params;
-  const response = _.find(mueblesDB, { id: productId });
+  const { slug } = request;
+  // const response = slug;
+  const response = _.find(mueblesDB, function (obj) {
+    if (obj.slug === slug) {
+      return true;
+    }
+  });
   return [200, response];
 });
 
@@ -35,33 +40,7 @@ mock.onPost("/api/e-commerce-app/product/save").reply((request) => {
   return [200, product];
 });
 
-async function getProducts() {
-  try {
-    return await axios
-      .get("/api/e-commerce-app/products")
-      .then((res) => res.data.mueblesDB);
-  } catch (error) {
-    throw new Error(error);
-  }
-}
-
-export function useGetProducts() {
-  return useQuery("products", () => getProducts());
-}
-
-async function getProduct(id) {
-  try {
-    return await axios
-      .get("/api/e-commerce-app/products", { id })
-      .then((res) => res.data);
-  } catch (error) {
-    throw new Error(error);
-  }
-}
-
-export function useGetProduct() {
-  return useQuery("product", (id) => getProduct(id));
-}
+export { axios, useQuery };
 
 // mock.onGet("/api/e-commerce-app/orders").reply(() => {
 //   return [200, mueblesDB.orders];

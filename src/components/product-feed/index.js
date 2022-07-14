@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useGetProducts } from "../../api/fake-db/fake-server";
+import { useGetProducts } from "api/product/get-all-products";
 import _ from "lodash";
 import { Container, Row, Col } from "react-grid-system";
 import ProductCard from "../product-card";
@@ -23,8 +23,10 @@ const ProductFeed = () => {
           {feed ? (
             feed?.map((f) => {
               return (
-                <Col xs={12} sm={6} lg={4} key={f.id}>
-                  <ProductCard {...f} />
+                <Col xs={6} sm={6} md={4} lg={3} key={f.id}>
+                  <div className="card-wrap">
+                    <ProductCard {...f} />
+                  </div>
                 </Col>
               );
             })
