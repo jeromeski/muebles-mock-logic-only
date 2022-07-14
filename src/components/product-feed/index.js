@@ -3,6 +3,7 @@ import { useGetProducts } from "api/product/get-all-products";
 import _ from "lodash";
 import { Container, Row, Col } from "react-grid-system";
 import ProductCard from "../product-card";
+import "./product-feed-style.css";
 
 const ProductFeed = () => {
   const { data } = useGetProducts();
@@ -17,7 +18,7 @@ const ProductFeed = () => {
     }
   }, [data]);
   return (
-    <div className="App">
+    <div className="product-feed">
       <Container>
         <Row>
           {feed ? (

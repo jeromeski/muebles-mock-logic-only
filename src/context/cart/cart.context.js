@@ -52,10 +52,11 @@ const CartProvider = ({ children }) => {
     });
   };
 
-  const addItem = (item) => {
+  const addItem = (item, qty) => {
     dispatch({
       type: "ADD_ITEM",
-      item
+      item,
+      qty
     });
   };
 

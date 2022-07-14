@@ -38,7 +38,7 @@ const cartReducer = (origState, action) => {
     }
 
     case "ADD_ITEM": {
-      const items = addItemToCart(state.items, action.item);
+      const items = addItemToCart(state.items, action.item, action.qty);
       return !items ? state : generateFinalState(state, items);
     }
 

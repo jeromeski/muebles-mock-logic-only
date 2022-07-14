@@ -54,10 +54,14 @@ const removeItemFromCart = (items, product) => {
   });
 };
 
-const addItemToCart = (items, product) => {
+const addItemToCart = (items, product, qty = 1) => {
   const itemIdx = items.findIndex((c) => c.id === product.id);
   if (itemIdx >= 0) {
     return noOp();
+  }
+  if (qty > 1) {
+    const newProduct = { ...product, qty: qty };
+    return [...items, newProduct];
   }
   const newProduct = { ...product, qty: 1, shipping: 12 };
   return [...items, newProduct];

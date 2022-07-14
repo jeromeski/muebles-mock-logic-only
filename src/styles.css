@@ -3,6 +3,13 @@
    License: none (public domain)
 */
 
+*,
+*::before,
+*:after {
+  margin: 0;
+  padding: 0;
+}
+
 html,
 body,
 div,
@@ -139,8 +146,27 @@ body {
 
 .title {
   font-weight: bold;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
 }
 
 .ml-1 {
   margin-left: 1rem;
+}
+
+.mt-1 {
+  margin-top: 1rem;
+}
+
+.ratings {
+  margin-bottom: 1rem;
+  font-size: 12px;
+}
+
+.button {
+  padding: 5px 10px !important;
+}
+
+.breadcrumb {
+  margin-bottom: 1rem;
 }

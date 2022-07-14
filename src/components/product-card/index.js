@@ -21,14 +21,14 @@ const ProductCard = ({ title, price, ratings, salePrice, image, slug }) => {
         <pre>
           rating: {Math.floor(getAvgRatings(ratings))} stars ({ratings.length})
         </pre>
-        <div className="card-action">
-          <button>add to cart</button>
+        <div className="card-action mt-1">
+          <button className="button">Add to Cart</button>
           <button
-            className="ml-1"
+            className="ml-1 button"
             type="button"
             onClick={() => navigate(`/${slug}`)}
           >
-            view details
+            View Details
           </button>
         </div>
       </div>
