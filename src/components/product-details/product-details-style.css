@@ -1,0 +1,8 @@
+.product-details__media {
+  float: left;
+  padding-right: 2rem;
+}
+
+.product-details__content {
+  padding: 15px;
+}

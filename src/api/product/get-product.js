@@ -13,7 +13,6 @@ async function getProduct(id) {
 
 export function useGetProduct(id) {
   return useQuery("product", () => {
-    console.log(id);
     return getProduct(id);
   });
 }
