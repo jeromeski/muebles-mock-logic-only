@@ -1,0 +1,32 @@
+.header {
+  background-color: darkgray;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+}
+
+.brand-name {
+  font-size: 1.5rem;
+  margin-left: 2rem;
+}
+
+.nav-cart {
+  position: relative;
+  margin-left: auto;
+  margin-right: 2rem;
+  cursor: pointer;
+}
+
+.nav-link {
+  color: lightgoldenrodyellow;
+}
+
+.nav-cart-count {
+  border-radius: 100%;
+  background-color: #fff;
+  padding: 3px 6px;
+  font-size: 0.75rem;
+  position: absolute;
+  top: -5px;
+  right: -5px;
+}
