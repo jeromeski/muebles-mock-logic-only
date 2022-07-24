@@ -26,7 +26,7 @@ const ProductCard = ({ title, price, ratings, salePrice, image, slug }) => {
           <button
             className="ml-1 button"
             type="button"
-            onClick={() => navigate(`/${slug}`)}
+            onClick={() => navigate(`/furniture/${slug}`)}
           >
             View Details
           </button>

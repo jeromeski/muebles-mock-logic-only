@@ -25,6 +25,8 @@ const ProductDetails = (props) => {
       setAvgRating(getAvgRatings(ratings));
     }
   }, [ratings?.length]);
+
+  useEffect(() => {}, [props.id]);
   return (
     <div className="pdp-details">
       <div className="pdp-media">
@@ -69,7 +71,7 @@ const ProductDetails = (props) => {
           </div>
           <div>
             <button className="button">+</button>
-            <input className="pdp-count" type="text" readonly value={qty} />
+            <input className="pdp-count" type="text" readOnly value={qty} />
             <button className="button">-</button>
           </div>
         </div>

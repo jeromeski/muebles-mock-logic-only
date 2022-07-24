@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import _ from "lodash";
 
 import { useGetProducts } from "api/product/get-all-products";
 import useThrottledMatch from "hooks/use-throttled-match";
@@ -23,13 +24,14 @@ const SearchBar = () => {
   return (
     <div className="search-bar">
       <Combobox>
-        <ComboboxInput handleChange={handleChange} />
+        <ComboboxInput handleChange={handleChange} term={term} />
         {matchedValues && (
           <ComboboxPopover>
             <ComboboxList>
               {matchedValues?.slice(0, 10).map((item) => (
-                <ComboboxOption key={item.id} {...item} />
+                <ComboboxOption key={item.id} {...item} clearSearch={setTerm} />
               ))}
+              {_.isEmpty(matchedValues) && <span>No Match!</span>}
             </ComboboxList>
           </ComboboxPopover>
         )}

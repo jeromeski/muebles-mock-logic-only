@@ -1,6 +1,6 @@
 import _ from "lodash";
 import muebles from "./muebles-db.json";
-import { useQuery } from "react-query";
+import { useQuery, useMutation } from "react-query";
 import axios from "axios";
 import MockAdapter from "axios-mock-adapter";
 const mock = new MockAdapter(axios);
@@ -40,7 +40,7 @@ mock.onPost("/api/e-commerce-app/product/save").reply((request) => {
   return [200, product];
 });
 
-export { axios, useQuery };
+export { axios, useQuery, useMutation };
 
 // mock.onGet("/api/e-commerce-app/orders").reply(() => {
 //   return [200, mueblesDB.orders];
