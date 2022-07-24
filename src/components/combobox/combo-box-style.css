@@ -34,9 +34,12 @@
   position: absolute;
   top: 110%;
   left: 0;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
 }
 
-.popover-image-container {
+.combobox-option-container {
+  all: unset;
+  cursor: pointer;
   display: flex;
   align-items: center;
 }

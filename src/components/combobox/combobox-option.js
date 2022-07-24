@@ -1,9 +1,9 @@
-const ComboboxOption = ({ image, title }) => {
+const ComboboxOption = (props) => {
   return (
-    <div className="popover-image-container">
-      <img className="popover-image" src={image} alt={title} />
-      <span>{title}</span>
-    </div>
+    <button type="button" className="combobox-option-container">
+      <img className="popover-image" src={props.image} alt={props.title} />
+      <span>{props.title}</span>
+    </button>
   );
 };
 
