@@ -1,0 +1,52 @@
+.combobox {
+  background-color: black;
+  position: relative;
+  z-index: 10;
+}
+
+.combobox-input-container {
+  display: inline-block;
+  position: relative;
+  background-color: darkgray;
+}
+
+.combobox-input {
+  height: 35px;
+  font-size: 17px;
+  text-indent: 30px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+
+.search-icon {
+  font-size: 25px;
+  position: absolute;
+  top: 15%;
+}
+
+.combobox-popover {
+  display: inline-block;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  background-color: #fff;
+  position: absolute;
+  top: 110%;
+  left: 0;
+}
+
+.popover-image-container {
+  display: flex;
+  align-items: center;
+}
+
+.popover-image-container span {
+  font-size: 12px;
+}
+
+.popover-image {
+  height: 50px;
+  width: 50px;
+  margin-right: 5px;
+}
