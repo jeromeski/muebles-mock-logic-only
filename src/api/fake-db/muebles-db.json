@@ -20,40 +20,12 @@
       ],
       "categories": [
         {
-          "id": 120,
-          "title": "Bed",
-          "slug": "bed",
-          "__typename": "Category",
-          "icon": "",
-          "children": [
-            {
-              "type": "id",
-              "generated": false,
-              "id": "Category:121",
-              "typename": "Category"
-            },
-            {
-              "type": "id",
-              "generated": false,
-              "id": "Category:122",
-              "typename": "Category"
-            },
-            {
-              "type": "id",
-              "generated": false,
-              "id": "Category:123",
-              "typename": "Category"
-            }
-          ]
-        },
-        {
           "id": 121,
           "title": "Master Bed",
           "slug": "master_bed",
           "__typename": "Category"
         }
       ],
-      "__typename": "Product",
       "ratings": [
         { "id": "571_1", "rating": 2 },
         { "id": "571_2", "rating": 2 },

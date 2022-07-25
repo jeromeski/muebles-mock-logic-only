@@ -1,0 +1,464 @@
+{
+  "items": [
+    {
+      "id": 21,
+      "title": "Signature Salmon",
+      "slug": "signaturesalmon",
+      "unit": "1 lb",
+      "price": 4.95,
+      "salePrice": 0,
+      "description": "Salmon is a common food classified as an oily fish with a rich content of protein and omega-3 fatty acids",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/SignatureSalmon_fstp4m.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "title": "Meat & Fish",
+          "slug": "meat-and-fish",
+          "__typename": "Category"
+        },
+        {
+          "id": 5,
+          "title": "Fresh Fish",
+          "slug": "fresh-fish",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 22,
+      "title": "Cod Fillet",
+      "slug": "codfillet",
+      "unit": "1 lb",
+      "price": 10,
+      "salePrice": 7.5,
+      "description": "Cod is the common name for the demersal fish genus Gadus, belonging to the family Gadidae. Cod is also used as part of the common name for a number of other fish species, and some species suggested to belong to genus Gadus are not called cod.",
+      "discountInPercent": 25,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/codfillet_u0mti1.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "title": "Meat & Fish",
+          "slug": "meat-and-fish",
+          "__typename": "Category"
+        },
+        {
+          "id": 5,
+          "title": "Fresh Fish",
+          "slug": "fresh-fish",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 23,
+      "title": "Swordfish Fillet",
+      "slug": "swordfish",
+      "unit": "1.5 lb",
+      "price": 10,
+      "salePrice": 8.5,
+      "description": "The swordfish meat has a very delicate flavour, meaty and mild. Swordfish, also known as broadbills, is an oily fish similar to tuna, chunky meat without bones.",
+      "discountInPercent": 15,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/swordfish_smniuv.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/swordfish_smniuv.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/swordfish_smniuv.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/swordfish_smniuv.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/swordfish_smniuv.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "title": "Meat & Fish",
+          "slug": "meat-and-fish",
+          "__typename": "Category"
+        },
+        {
+          "id": 5,
+          "title": "Fresh Fish",
+          "slug": "fresh-fish",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 24,
+      "title": "Halibut Fillet",
+      "slug": "halibut",
+      "unit": "2 lb",
+      "price": 15,
+      "salePrice": 0,
+      "description": "Hippoglossus stenolepis, the Pacific halibut, is a species of righteye flounder. This very large species of flatfish is native to the North Pacific and is fished by commercial fisheries, sport fishers, and subsistence fishers.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/halibut_jaz7ju.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/halibut_jaz7ju.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/halibut_jaz7ju.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/halibut_jaz7ju.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736058/pickbazar/grocery/halibut_jaz7ju.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "title": "Meat & Fish",
+          "slug": "meat-and-fish",
+          "__typename": "Category"
+        },
+        {
+          "id": 5,
+          "title": "Fresh Fish",
+          "slug": "fresh-fish",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 25,
+      "title": "Tilapia Fillet",
+      "slug": "tilapia",
+      "unit": "1 lb",
+      "price": 7.99,
+      "salePrice": 0,
+      "description": "Tilapia is the common name for nearly a hundred species of cichlid fish from the coelotilapine, coptodonine, heterotilapine, oreochromine, pelmatolapiine and tilapiine tribes, with the economically most important species placed in Coptodonini and Oreochromini.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/TilapiaFillet_a2urhk.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/TilapiaFillet_a2urhk.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/TilapiaFillet_a2urhk.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/TilapiaFillet_a2urhk.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/TilapiaFillet_a2urhk.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "title": "Meat & Fish",
+          "slug": "meat-and-fish",
+          "__typename": "Category"
+        },
+        {
+          "id": 5,
+          "title": "Fresh Fish",
+          "slug": "fresh-fish",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 26,
+      "title": "Fresh Beef",
+      "slug": "beef",
+      "unit": "1 lb",
+      "price": 6,
+      "salePrice": 0,
+      "description": "Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/beef_xkxhnb.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/beef_xkxhnb.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/beef_xkxhnb.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/beef_xkxhnb.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/beef_xkxhnb.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "title": "Meat & Fish",
+          "slug": "meat-and-fish",
+          "__typename": "Category"
+        },
+        {
+          "id": 6,
+          "title": "Meat",
+          "slug": "meat",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 27,
+      "title": "Sliced Turkey Breast",
+      "slug": "turkeybreast",
+      "unit": "2 lb ",
+      "price": 8,
+      "salePrice": 7.2,
+      "description": "Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/sliced_turkey_breast_szb8jg.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/sliced_turkey_breast_szb8jg.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/sliced_turkey_breast_szb8jg.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/sliced_turkey_breast_szb8jg.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/sliced_turkey_breast_szb8jg.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "title": "Meat & Fish",
+          "slug": "meat-and-fish",
+          "__typename": "Category"
+        },
+        {
+          "id": 6,
+          "title": "Meat",
+          "slug": "meat",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 28,
+      "title": "Chicken Thighs",
+      "slug": "chickenthigh",
+      "unit": "5 lb ",
+      "price": 10,
+      "salePrice": 7,
+      "description": "Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.",
+      "discountInPercent": 30,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/chicken_thigh_yrdfwh.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/chicken_thigh_yrdfwh.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/chicken_thigh_yrdfwh.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/chicken_thigh_yrdfwh.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/chicken_thigh_yrdfwh.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "title": "Meat & Fish",
+          "slug": "meat-and-fish",
+          "__typename": "Category"
+        },
+        {
+          "id": 6,
+          "title": "Meat",
+          "slug": "meat",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 29,
+      "title": "Chicken Breast",
+      "slug": "chickenbreast",
+      "unit": "5 lb ",
+      "price": 10,
+      "salePrice": 0,
+      "description": "Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/chicken_brest_ribcxo.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/chicken_brest_ribcxo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/chicken_brest_ribcxo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/chicken_brest_ribcxo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/chicken_brest_ribcxo.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "title": "Meat & Fish",
+          "slug": "meat-and-fish",
+          "__typename": "Category"
+        },
+        {
+          "id": 6,
+          "title": "Meat",
+          "slug": "meat",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 30,
+      "title": "Beef Steak",
+      "slug": "beefsteak",
+      "unit": "3 lb ",
+      "price": 15,
+      "salePrice": 0,
+      "description": "Meat is animal flesh that is eaten as food. Humans have hunted and killed animals for meat since prehistoric times. The advent of civilization allowed the domestication of animals such as chickens, sheep, rabbits, pigs and cattle.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589736058/pickbazar/grocery/steak_okxpjo.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/steak_okxpjo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/steak_okxpjo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/steak_okxpjo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589736057/pickbazar/grocery/steak_okxpjo.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "title": "Meat & Fish",
+          "slug": "meat-and-fish",
+          "__typename": "Category"
+        },
+        {
+          "id": 6,
+          "title": "Meat",
+          "slug": "meat",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "id": 61,
+      "title": "Flounce High Low Plain Midi Skirt",
+      "slug": "flounce-high-low-plain-midi-skirt",
+      "unit": "1 pc(s)",
+      "price": 25,
+      "salePrice": 20,
+      "description": "Blue washed mini A-line denim pencil skirt, has a waistband with nabelt loops, button closures",
+      "discountInPercent": 20,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Flounce_High.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Flounce_High.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Flounce_High.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Flounce_High.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Flounce_High.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 33,
+          "title": "Skirts",
+          "slug": "skirts",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 62,
+      "title": "Basic Hollow Out Flared Midi Skirt",
+      "slug": "basic-hollow-out-flared-midi-skirt",
+      "unit": "1 pc(s)",
+      "price": 25,
+      "salePrice": 20,
+      "description": "Blue washed pencil denim distressed skirt with ruffle detail, has a waistband with belt loops, 2 pockets, straight hem with back slit Comes with a fabric belt.",
+      "discountInPercent": 20,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Basic_hollow.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Basic_hollow.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Basic_hollow.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Basic_hollow.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Basic_hollow.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 33,
+          "title": "Skirts",
+          "slug": "skirts",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 63,
+      "title": "Charming Red Flared Midi Skirt",
+      "slug": "charming-red-flared-midi-skirt",
+      "unit": "1 pc(s)",
+      "price": 35,
+      "salePrice": 28,
+      "description": "Red and gold-coloured printed flared maxi skirt with satin lining, has an elasticated waistband with side hook closure, flared hem",
+      "discountInPercent": 20,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Charming_red.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Charming_red.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Charming_red.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Charming_red.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Charming_red.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 33,
+          "title": "Skirts",
+          "slug": "skirts",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 64,
+      "title": "Plain Midi Flared Skirts",
+      "slug": "plain-midi-flared-skirts",
+      "unit": "1 pc(s)",
+      "price": 40,
+      "salePrice": 0,
+      "description": "Red and gold-coloured printed flared maxi skirt with satin lining, has an elasticated waistband with side hook closure, flared hem",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Plain_midi.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Plain_midi.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Plain_midi.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Plain_midi.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Plain_midi.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 33,
+          "title": "Skirts",
+          "slug": "skirts",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}

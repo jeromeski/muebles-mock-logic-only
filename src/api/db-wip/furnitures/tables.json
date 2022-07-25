@@ -1,0 +1,1062 @@
+{
+  "items": [
+    {
+      "id": 647,
+      "title": "Hudson Bedside Table",
+      "slug": "hudsonbedsidetable",
+      "unit": "1 pc(s)",
+      "price": 80,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hudson_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hudson.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hudson.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hudson.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hudson.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 133,
+          "title": "Bedside Table",
+          "slug": "bedside_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 648,
+      "title": "Oliver Bedside Table",
+      "slug": "oliverbedsidetable",
+      "unit": "1 pc(s)",
+      "price": 50,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oliver_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oliver.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oliver.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oliver.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oliver.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 133,
+          "title": "Bedside Table",
+          "slug": "bedside_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 649,
+      "title": "Arlo Bedside Table",
+      "slug": "arlobedsidetable",
+      "unit": "1 pc(s)",
+      "price": 50,
+      "salePrice": 45,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 5,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Arlo_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Arlo.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Arlo.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Arlo.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Arlo.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 133,
+          "title": "Bedside Table",
+          "slug": "bedside_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 650,
+      "title": "Ava Bedside Table",
+      "slug": "avabedside",
+      "unit": "1 pc(s)",
+      "price": 75,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ava_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ava.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ava.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ava.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ava.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 133,
+          "title": "Bedside Table",
+          "slug": "bedside_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 651,
+      "title": "Bjorn Bedside Table",
+      "slug": "bjornbedsidetable",
+      "unit": "1 pc(s)",
+      "price": 60,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Bjorn_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Bjorn.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Bjorn.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Bjorn.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Bjorn.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 133,
+          "title": "Bedside Table",
+          "slug": "bedside_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 652,
+      "title": "Mayfair Bedside Table",
+      "slug": "mayfairbedsidetable",
+      "unit": "1 pc(s)",
+      "price": 100,
+      "salePrice": 80,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 20,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Mayfair_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Mayfair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Mayfair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Mayfair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Mayfair.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 133,
+          "title": "Bedside Table",
+          "slug": "bedside_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 653,
+      "title": "Clovelly Bedside Table",
+      "slug": "clovellybedsidetable",
+      "unit": "1 pc(s)",
+      "price": 80,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Clovelly_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Clovelly.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Clovelly.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Clovelly.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Clovelly.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 133,
+          "title": "Bedside Table",
+          "slug": "bedside_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 654,
+      "title": "Hana Bedside Table",
+      "slug": "hanabedside",
+      "unit": "1 pc(s)",
+      "price": 120,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 133,
+          "title": "Bedside Table",
+          "slug": "bedside_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 655,
+      "title": "Hana Bedside Table",
+      "slug": "hanabedside",
+      "unit": "1 pc(s)",
+      "price": 120,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 134,
+          "title": "Coffee Table",
+          "slug": "coffee_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 656,
+      "title": "Hana Bedside Table",
+      "slug": "hanabedside",
+      "unit": "1 pc(s)",
+      "price": 120,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 134,
+          "title": "Coffee Table",
+          "slug": "coffee_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 657,
+      "title": "Hana Bedside Table",
+      "slug": "hanabedside",
+      "unit": "1 pc(s)",
+      "price": 120,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 134,
+          "title": "Coffee Table",
+          "slug": "coffee_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 658,
+      "title": "Hana Bedside Table",
+      "slug": "hanabedside",
+      "unit": "1 pc(s)",
+      "price": 120,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 134,
+          "title": "Coffee Table",
+          "slug": "coffee_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 659,
+      "title": "Hana Bedside Table",
+      "slug": "hanabedside",
+      "unit": "1 pc(s)",
+      "price": 120,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 134,
+          "title": "Coffee Table",
+          "slug": "coffee_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 660,
+      "title": "Hana Bedside Table",
+      "slug": "hanabedside",
+      "unit": "1 pc(s)",
+      "price": 120,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 134,
+          "title": "Coffee Table",
+          "slug": "coffee_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 661,
+      "title": "Hana Bedside Table",
+      "slug": "hanabedside",
+      "unit": "1 pc(s)",
+      "price": 120,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 134,
+          "title": "Coffee Table",
+          "slug": "coffee_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 662,
+      "title": "Hana Bedside Table",
+      "slug": "hanabedside",
+      "unit": "1 pc(s)",
+      "price": 120,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hana.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 134,
+          "title": "Coffee Table",
+          "slug": "coffee_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 663,
+      "title": "Aidan 6 Seater Dinning Table",
+      "slug": "aftabtable",
+      "unit": "1 pc(s)",
+      "price": 800,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aftab_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aftab.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aftab.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aftab.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aftab.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 135,
+          "title": "Dining Table",
+          "slug": "dining_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 664,
+      "title": "Diamond 8 Seater Dinning Table",
+      "slug": "diamondtable",
+      "unit": "1 pc(s)",
+      "price": 900,
+      "salePrice": 810,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Diamond_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Diamond.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Diamond.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Diamond.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Diamond.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 135,
+          "title": "Dining Table",
+          "slug": "dining_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 665,
+      "title": "Greyson Dinning Table",
+      "slug": "greysontable",
+      "unit": "1 pc(s)",
+      "price": 750,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Greyson_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Greyson.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Greyson.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Greyson.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Greyson.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 135,
+          "title": "Dining Table",
+          "slug": "dining_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 666,
+      "title": "Lotus 6 Seater Dinning Table",
+      "slug": "lotustable",
+      "unit": "1 pc(s)",
+      "price": 820,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Lotus_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Lotus.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Lotus.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Lotus.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Lotus.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 135,
+          "title": "Dining Table",
+          "slug": "dining_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 667,
+      "title": "Brothers Stylish Dinning Table",
+      "slug": "brotherstable",
+      "unit": "1 pc(s)",
+      "price": 800,
+      "salePrice": 720,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Brothers_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Brothers.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Brothers.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Brothers.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Brothers.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 135,
+          "title": "Dining Table",
+          "slug": "dining_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 668,
+      "title": "Camelia Round Dinning Table",
+      "slug": "cameliatable",
+      "unit": "1 pc(s)",
+      "price": 1000,
+      "salePrice": 900,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Camelia_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Camelia.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Camelia.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Camelia.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Camelia.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 135,
+          "title": "Dining Table",
+          "slug": "dining_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 669,
+      "title": "Canyon Deluxe Dinning Table",
+      "slug": "canyontable",
+      "unit": "1 pc(s)",
+      "price": 950,
+      "salePrice": 0,
+      "description": "A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Canyon_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Canyon.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Canyon.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Canyon.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Canyon.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 132,
+          "title": "Table",
+          "slug": "table",
+          "__typename": "Category"
+        },
+        {
+          "id": 135,
+          "title": "Dining Table",
+          "slug": "dining_table",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}

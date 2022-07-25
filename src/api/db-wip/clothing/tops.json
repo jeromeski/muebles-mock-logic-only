@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 56,
+      "title": "Roadster Women Solid Top",
+      "slug": "roadster-women-solid-top",
+      "unit": "1 pc(s)",
+      "price": 15,
+      "salePrice": 12,
+      "description": "Fendi began life in 1925 as a fur and leather speciality store in Rome. Despite growing into one of the world’s most renowned luxury labels, the business has retained its family feel, with a focus on fine detail, Italian craftsmanship and the support of local artisans.",
+      "discountInPercent": 20,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Roadstar_solid_top.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Roadstar_solid_top.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Roadstar_solid_top.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Roadstar_solid_top.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Roadstar_solid_top.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 32,
+          "title": "Tops",
+          "slug": "tops",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}

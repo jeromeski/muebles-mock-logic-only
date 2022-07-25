@@ -1,0 +1,924 @@
+{
+  "items": [
+    {
+      "id": 8,
+      "title": "lime",
+      "slug": "lime",
+      "unit": "12 pc(s)",
+      "price": 1.5,
+      "salePrice": 0,
+      "description": "The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/GreenLimes_jrodle.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 9,
+      "title": "Lemon",
+      "slug": "lemon",
+      "unit": "12 pc(s)",
+      "price": 1.5,
+      "salePrice": 0,
+      "description": "The lemon/lime, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Yellow_Limes_y0lbyo.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 10,
+      "title": "Cherry",
+      "slug": "cherry",
+      "unit": "0.5 lb",
+      "price": 2,
+      "salePrice": 0,
+      "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe. Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/RedCherries_zylnoo.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/RedCherries_zylnoo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/RedCherries_zylnoo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/RedCherries_zylnoo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/RedCherries_zylnoo.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 2,
+          "title": "Fruits",
+          "slug": "fruits",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 11,
+      "title": "Celery Stick",
+      "slug": "celerystick",
+      "unit": "1 lb",
+      "price": 0.7,
+      "salePrice": 0,
+      "description": "celery stick - celery stalks cut into small sticks. crudites - raw vegetables cut into bite-sized strips and served with a dip. celery - stalks eaten raw or cooked or used as seasoning.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/CelerySticks_ulljfz.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/CelerySticks_ulljfz.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/CelerySticks_ulljfz.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/CelerySticks_ulljfz.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/CelerySticks_ulljfz.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 12,
+      "title": "Baby Spinach",
+      "slug": "babyspinach",
+      "unit": "0.2 lb",
+      "price": 0.6,
+      "salePrice": 0,
+      "description": "Spinach (Spinacia oleracea) is a leafy green flowering plant native to central and western Asia. It is of the order Caryophyllales, family Amaranthaceae, subfamily Chenopodioideae. Its leaves are a common edible vegetable consumed either fresh.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/BabySpinach_xronqz.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/BabySpinach_xronqz.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/BabySpinach_xronqz.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/BabySpinach_xronqz.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/BabySpinach_xronqz.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 13,
+      "title": "Mix Vegetable Platter",
+      "slug": "mixveggieplatter",
+      "unit": "0.4 lb",
+      "price": 1.6,
+      "salePrice": 0,
+      "description": "Spinach (Spinacia oleracea) is a leafy green flowering plant native to central and western Asia. It is of the order Caryophyllales, family Amaranthaceae, subfamily Chenopodioideae. Its leaves are a common edible vegetable consumed either fresh.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/VeggiePlatter_ztcg0m.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/VeggiePlatter_ztcg0m.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/VeggiePlatter_ztcg0m.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/VeggiePlatter_ztcg0m.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/VeggiePlatter_ztcg0m.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 14,
+      "title": "French Green Beans",
+      "slug": "frenchgreenbeans",
+      "unit": ".6 lb",
+      "price": 2,
+      "salePrice": 1.8,
+      "description": "Green beans are the unripe, young fruit and protective pods of various cultivars of the common bean. Immature or young pods of the runner bean, yardlong bean, and hyacinth bean are used in a similar way.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/FrenchGreenBeans_azivow.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/FrenchGreenBeans_azivow.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/FrenchGreenBeans_azivow.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/FrenchGreenBeans_azivow.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/FrenchGreenBeans_azivow.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 15,
+      "title": "Sweet Corn",
+      "slug": "sweetcorn",
+      "unit": "2.5 lb",
+      "price": 3,
+      "salePrice": 0,
+      "description": "Maize, also known as corn, is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10,000 years ago. The leafy stalk of the plant produces pollen inflorescences and separate ovuliferous inflorescences called ears that yield kernels or seeds, which are fruits.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/Corn_dlrtbv.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Corn_dlrtbv.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Corn_dlrtbv.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Corn_dlrtbv.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Corn_dlrtbv.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 16,
+      "title": "Cucumber",
+      "slug": "cucumber",
+      "unit": "4 lb",
+      "price": 2.2,
+      "salePrice": 0,
+      "description": "Cucumber is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears cucumiform fruits that are used as vegetables. There are three main varieties of cucumber: slicing, pickling, and seedless. Within these varieties, several cultivars have been created.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/Cucumber_w6hlxr.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/Cucumber_w6hlxr.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/Cucumber_w6hlxr.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/Cucumber_w6hlxr.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/Cucumber_w6hlxr.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 17,
+      "title": "Pepper",
+      "slug": "pepper",
+      "unit": "1.5 lb",
+      "price": 10,
+      "salePrice": 8,
+      "description": "Black pepper is a flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. When fresh and fully mature, it is about 5 mm in diameter and dark red, and contains a single seed, like all drupes",
+      "discountInPercent": 20,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/MiniPeppers_iydh8m.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/MiniPeppers_iydh8m.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/MiniPeppers_iydh8m.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/MiniPeppers_iydh8m.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/MiniPeppers_iydh8m.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 18,
+      "title": " Green Beans",
+      "slug": "greenbeans",
+      "unit": ".6 lb",
+      "price": 1.5,
+      "salePrice": 1.2,
+      "description": "Green beans are the unripe, young fruit and protective pods of various cultivars of the common bean. Immature or young pods of the runner bean, yardlong bean, and hyacinth bean are used in a similar way.",
+      "discountInPercent": 20,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/GreenBeans_fwddsr.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/GreenBeans_fwddsr.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/GreenBeans_fwddsr.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/GreenBeans_fwddsr.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/GreenBeans_fwddsr.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 19,
+      "title": " Brussels Sprout",
+      "slug": "brusselssprouts",
+      "unit": "1 lb",
+      "price": 4,
+      "salePrice": 0,
+      "description": "The Brussels sprout is a member of the Gemmifera Group of cabbages, grown for its edible buds. The leaf vegetables are typically 1.5–4.0 cm in diameter and look like miniature cabbages. The Brussels sprout has long been popular in Brussels, Belgium, and may have gained its name there.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/BrusselsSprouts_adwhet.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/BrusselsSprouts_adwhet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/BrusselsSprouts_adwhet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/BrusselsSprouts_adwhet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/BrusselsSprouts_adwhet.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 20,
+      "title": "Peeled Baby Carrot",
+      "slug": "babycarrot",
+      "unit": "2 lb",
+      "price": 3,
+      "salePrice": 0,
+      "description": "The carrot is a root vegetable, usually orange in colour, though purple, black, red, white, and yellow cultivars exist. They are a domesticated form of the wild carrot, Daucus carota, native to Europe and Southwestern Asia. The plant probably originated in Persia and was originally cultivated for its leaves and seeds.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/Peeled_Carrots_xx7mjo.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Peeled_Carrots_xx7mjo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Peeled_Carrots_xx7mjo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Peeled_Carrots_xx7mjo.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Peeled_Carrots_xx7mjo.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 3,
+          "title": "Vegetables",
+          "slug": "vegetables",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 1,
+      "title": "Strawberry",
+      "slug": "strawbery",
+      "unit": "1 lb",
+      "price": 5,
+      "salePrice": 2.5,
+      "description": "The garden strawberry is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries, which are cultivated worldwide for their fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness.",
+      "discountInPercent": 50,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/strawberry_d4lzfz.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/strawberry_d4lzfz.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/strawberry_d4lzfz.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/strawberry_d4lzfz.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/strawberry_d4lzfz.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 2,
+          "title": "Fruits",
+          "slug": "fruits",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 2,
+      "title": "Blueberries",
+      "slug": "blueberry",
+      "unit": "1 lb",
+      "price": 8,
+      "salePrice": 7.2,
+      "description": "Blueberries are perennial flowering plants with blue or purple berries. They are classified in the section Cyanococcus within the genus Vaccinium. Vaccinium also includes cranberries, bilberries, huckleberries and Madeira blueberries. Commercial blueberries—both wild and cultivated —are all native to North America.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614570/pickbazar/grocery/blueberries_relyfn.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/blueberries_relyfn.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/blueberries_relyfn.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/blueberries_relyfn.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614570/pickbazar/grocery/blueberries_relyfn.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 2,
+          "title": "Fruits",
+          "slug": "fruits",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 3,
+      "title": "Clementines",
+      "slug": "clementines",
+      "unit": "2 lb",
+      "price": 3,
+      "salePrice": 0,
+      "description": " clementine is a tangor, a citrus fruit hybrid between a willowleaf mandarin orange and a sweet orange, named for its late 19th-century discoverer. The exterior is a deep orange colour with a smooth, glossy appearance. ",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614568/pickbazar/grocery/clementines_h74qrp.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/clementines_h74qrp.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/clementines_h74qrp.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/clementines_h74qrp.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614568/pickbazar/grocery/clementines_h74qrp.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 2,
+          "title": "Fruits",
+          "slug": "fruits",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 4,
+      "title": "Apples",
+      "slug": "apples",
+      "unit": "2 lb",
+      "price": 2,
+      "salePrice": 1.6,
+      "description": "An apple is a sweet, edible fruit produced by an apple tree (Malus domestica). Apple trees are ... The skin of ripe apples is generally red, yellow, green, pink, or russetted, though many bi- or tri-colored cultivars may be found. ",
+      "discountInPercent": 20,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/Apples_dmwvrq.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Apples_dmwvrq.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Apples_dmwvrq.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Apples_dmwvrq.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Apples_dmwvrq.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 2,
+          "title": "Fruits",
+          "slug": "fruits",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 5,
+      "title": "Pears",
+      "slug": "pear",
+      "unit": "1 lb",
+      "price": 2,
+      "salePrice": 0,
+      "description": "The pear tree and shrub are a species of genus Pyrus, in the family Rosaceae, bearing the pomaceous fruit of the same name. Several species of pear are valued for their edible fruit and juices while others are cultivated as trees.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/pears_ukyxdh.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/pears_ukyxdh.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/pears_ukyxdh.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/pears_ukyxdh.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/pears_ukyxdh.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 2,
+          "title": "Fruits",
+          "slug": "fruits",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 6,
+      "title": "Mango",
+      "slug": "mango",
+      "unit": "2 lb",
+      "price": 2.5,
+      "salePrice": 0,
+      "description": "A mango is a juicy stone fruit produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for their edible fruit. Most of these species are found in nature as wild mangoes. The genus belongs to the cashew family Anacardiaceae.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/Mangoes_ruaapa.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Mangoes_ruaapa.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Mangoes_ruaapa.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Mangoes_ruaapa.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Mangoes_ruaapa.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 2,
+          "title": "Fruits",
+          "slug": "fruits",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 7,
+      "title": "Dates",
+      "slug": "dates",
+      "unit": "2 lb",
+      "price": 15,
+      "salePrice": 12,
+      "description": "Phoenix dactylifera, commonly known as date or date palm, is a flowering plant species in the palm family, Arecaceae, cultivated for its edible sweet fruit.",
+      "discountInPercent": 20,
+      "type": "GROCERY",
+      "image": "https://res.cloudinary.com/redq-inc/image/upload/c_fit,q_auto:best,w_300/v1589614569/pickbazar/grocery/Dates_pq4oad.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Dates_pq4oad.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Dates_pq4oad.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Dates_pq4oad.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://res.cloudinary.com/redq-inc/image/upload/v1589614569/pickbazar/grocery/Dates_pq4oad.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "title": "Fruits & Vegetables",
+          "slug": "fruits-and-vegetables",
+          "__typename": "Category"
+        },
+        {
+          "id": 2,
+          "title": "Fruits",
+          "slug": "fruits",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}

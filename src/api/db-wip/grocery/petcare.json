@@ -1,0 +1,1982 @@
+{
+  "items": [
+    {
+      "id": 182,
+      "title": "Avo Derm Grain Free",
+      "slug": "grain_free",
+      "unit": " 5 lb",
+      "price": 30,
+      "salePrice": 27,
+      "description": "Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/grain_free.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/grain_free.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/grain_free.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/grain_free.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/grain_free.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 58,
+          "title": "Cat Food",
+          "slug": "catfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 183,
+      "title": "Hills Science Diet",
+      "slug": "hills_science_diet",
+      "unit": " 5 lb",
+      "price": 25,
+      "salePrice": 0,
+      "description": "Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/hills_science_diet.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/hills_science_diet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/hills_science_diet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/hills_science_diet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/hills_science_diet.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 58,
+          "title": "Cat Food",
+          "slug": "catfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 184,
+      "title": "Instinct Ultimate Protien",
+      "slug": "instinct_the_raw",
+      "unit": " 4 lb",
+      "price": 20,
+      "salePrice": 16,
+      "description": "Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 20,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/instinct_the_raw.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/instinct_the_raw.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/instinct_the_raw.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/instinct_the_raw.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/instinct_the_raw.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 58,
+          "title": "Cat Food",
+          "slug": "catfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 185,
+      "title": "Natural Balance L I D",
+      "slug": "natural_balance",
+      "unit": " 4 lb",
+      "price": 20,
+      "salePrice": 0,
+      "description": "Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/natural_balance.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/natural_balance.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/natural_balance.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/natural_balance.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/natural_balance.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 58,
+          "title": "Cat Food",
+          "slug": "catfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 186,
+      "title": "Hills Urinary Care",
+      "slug": "prescription_diet",
+      "unit": " 4 lb",
+      "price": 20,
+      "salePrice": 15,
+      "description": "Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 25,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/prescription_diet.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/prescription_diet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/prescription_diet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/prescription_diet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/prescription_diet.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 58,
+          "title": "Cat Food",
+          "slug": "catfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 187,
+      "title": "Pro Diet Complete Balance",
+      "slug": "pro_diet",
+      "unit": " 6 lb",
+      "price": 25,
+      "salePrice": 0,
+      "description": "Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pro_diet.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pro_diet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pro_diet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pro_diet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pro_diet.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 58,
+          "title": "Cat Food",
+          "slug": "catfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 188,
+      "title": "Purina Pro Plan Veterinary Diets",
+      "slug": "purina_pro_plan",
+      "unit": " 6 lb",
+      "price": 25,
+      "salePrice": 22.5,
+      "description": "Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/purina_pro_plan.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/purina_pro_plan.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/purina_pro_plan.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/purina_pro_plan.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/purina_pro_plan.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 58,
+          "title": "Cat Food",
+          "slug": "catfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 189,
+      "title": "Special Kitty Gourmet",
+      "slug": "special_kitty",
+      "unit": " 5 lb",
+      "price": 30,
+      "salePrice": 24,
+      "description": "Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 20,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/special_kitty.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/special_kitty.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/special_kitty.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/special_kitty.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/special_kitty.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 58,
+          "title": "Cat Food",
+          "slug": "catfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 190,
+      "title": "Black Hawk Adult Lamb Rice",
+      "slug": "dog_food_black_hawk_adult_all_breeds_lamb&rice",
+      "unit": " 5 lb",
+      "price": 30,
+      "salePrice": 0,
+      "description": "Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 59,
+          "title": "Dog Food",
+          "slug": "dogfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 191,
+      "title": "Black Hawk Puppy Lamb Rice",
+      "slug": "dog_food_black_hawk_puppy_all_breeds_lamb&rice",
+      "unit": " 5 lb",
+      "price": 30,
+      "salePrice": 27,
+      "description": "Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 59,
+          "title": "Dog Food",
+          "slug": "dogfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 192,
+      "title": "Black Hawk Puppy Chicken Rice",
+      "slug": "dog_food_black_hawk_puppy_large_breedchicken&rice",
+      "unit": " 5 lb",
+      "price": 30,
+      "salePrice": 27,
+      "description": "Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 59,
+          "title": "Dog Food",
+          "slug": "dogfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 193,
+      "title": "Blain S Farm Fleet",
+      "slug": "dog_food_blain's_farm&fleet",
+      "unit": " 5 lb",
+      "price": 25,
+      "salePrice": 0,
+      "description": "Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blain's_farm&fleet.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blain's_farm&fleet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blain's_farm&fleet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blain's_farm&fleet.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blain's_farm&fleet.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 59,
+          "title": "Dog Food",
+          "slug": "dogfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 194,
+      "title": "Blue Wilderness Chicken Recepie",
+      "slug": "dog_food_blue_wilderness",
+      "unit": " 5 lb",
+      "price": 25,
+      "salePrice": 0,
+      "description": "Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blue_wilderness.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blue_wilderness.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blue_wilderness.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blue_wilderness.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blue_wilderness.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 59,
+          "title": "Dog Food",
+          "slug": "dogfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 195,
+      "title": "Whole Hearted Beef Pea Recepie",
+      "slug": "dog_food_whole_hearted_beef&pea",
+      "unit": " 8 lb",
+      "price": 40,
+      "salePrice": 32,
+      "description": "Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 20,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_beef&pea.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_beef&pea.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_beef&pea.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_beef&pea.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_beef&pea.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 59,
+          "title": "Dog Food",
+          "slug": "dogfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 196,
+      "title": "Whole Hearted Salmon Pea Recepie",
+      "slug": "dog_food_whole_hearted_salmon&pea",
+      "unit": " 8 lb",
+      "price": 40,
+      "salePrice": 0,
+      "description": "Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_salmon&pea.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_salmon&pea.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_salmon&pea.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_salmon&pea.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_salmon&pea.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 59,
+          "title": "Dog Food",
+          "slug": "dogfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 197,
+      "title": "Zenith Lamb Brown Rice",
+      "slug": "dog_food_zenith",
+      "unit": " 8 lb",
+      "price": 40,
+      "salePrice": 0,
+      "description": "Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_zenith.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_zenith.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_zenith.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_zenith.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_zenith.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 59,
+          "title": "Dog Food",
+          "slug": "dogfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 198,
+      "title": "Applaws Grain Free",
+      "slug": "kitten_food_applaws_adult_cat_chicken",
+      "unit": " 8 lb",
+      "price": 40,
+      "salePrice": 0,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_applaws_adult_cat_chicken.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_applaws_adult_cat_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_applaws_adult_cat_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_applaws_adult_cat_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_applaws_adult_cat_chicken.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 199,
+      "title": "Authority Chicken Rice Formula",
+      "slug": "kitten_food_authority_real_chicken",
+      "unit": " 5 lb",
+      "price": 30,
+      "salePrice": 27,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_authority_real_chicken.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_authority_real_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_authority_real_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_authority_real_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_authority_real_chicken.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 199,
+      "title": "Blue Wilderness Chicken Recepie",
+      "slug": "kitten_food_blue_wilderness_chicken",
+      "unit": " 5 lb",
+      "price": 30,
+      "salePrice": 27,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_blue_wilderness_chicken.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_blue_wilderness_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_blue_wilderness_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_blue_wilderness_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_blue_wilderness_chicken.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 200,
+      "title": "Hills Ideal Balance",
+      "slug": "kitten_food_hill's_ideal_balance_over1year_kitten",
+      "unit": " 5 lb",
+      "price": 30,
+      "salePrice": 0,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 201,
+      "title": "Hills Science Diet",
+      "slug": "kitten_food_hill's_science_diet_upto1year_kitten",
+      "unit": " 5 lb",
+      "price": 30,
+      "salePrice": 0,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 202,
+      "title": "Iams Proactive Health",
+      "slug": "kitten_food_iamso_upto1year",
+      "unit": " 5 lb",
+      "price": 20,
+      "salePrice": 16,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 20,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_iamso_upto1year.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_iamso_upto1year.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_iamso_upto1year.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_iamso_upto1year.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_iamso_upto1year.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 203,
+      "title": "Instinct Original Grain Free",
+      "slug": "kitten_food_instinct_chicken",
+      "unit": " 5 lb",
+      "price": 20,
+      "salePrice": 0,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_instinct_chicken.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_instinct_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_instinct_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_instinct_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_instinct_chicken.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 204,
+      "title": "Merrick Purrfect Bistro Grain Free",
+      "slug": "kitten_food_merrick",
+      "unit": " 5 lb",
+      "price": 25,
+      "salePrice": 0,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 204,
+      "title": "Merrick Purrfect Bistro Grain Free",
+      "slug": "kitten_food_merrick",
+      "unit": " 5 lb",
+      "price": 25,
+      "salePrice": 0,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 205,
+      "title": "Purina Healthy Kitten Formula",
+      "slug": "kitten_food_purina_one",
+      "unit": " 5 lb",
+      "price": 25,
+      "salePrice": 22.5,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_one.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_one.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_one.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_one.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_one.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 206,
+      "title": "Purina Pro Plan",
+      "slug": "kitten_food_purina_proplan",
+      "unit": " 4 lb",
+      "price": 35,
+      "salePrice": 0,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_proplan.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_proplan.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_proplan.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_proplan.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_proplan.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 207,
+      "title": "Wellness Complete Health",
+      "slug": "kitten_food_wellness",
+      "unit": " 6 lb",
+      "price": 35,
+      "salePrice": 0,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_wellness.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_wellness.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_wellness.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_wellness.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_wellness.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 208,
+      "title": "Whiskas",
+      "slug": "kitten_food_whiskas_real_chicken",
+      "unit": " 4 lb",
+      "price": 35,
+      "salePrice": 0,
+      "description": "Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_whiskas_real_chicken.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_whiskas_real_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_whiskas_real_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_whiskas_real_chicken.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_whiskas_real_chicken.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 60,
+          "title": "Kitten Food",
+          "slug": "kittenfood",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 209,
+      "title": "Black Winter Cap",
+      "slug": "pet_accessories_black_winter_cap",
+      "unit": " 1 pc(s)",
+      "price": 5,
+      "salePrice": 0,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_black_winter_cap.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_black_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_black_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_black_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_black_winter_cap.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 210,
+      "title": "Brown White Winter Cap",
+      "slug": "pet_accessories_brown&white_winter_cap",
+      "unit": " 1 pc(s)",
+      "price": 3,
+      "salePrice": 0,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 211,
+      "title": "Brown White Winter Cap",
+      "slug": "pet_accessories_brown&white_winter_cap",
+      "unit": " 1 pc(s)",
+      "price": 3,
+      "salePrice": 0,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 212,
+      "title": "Batman Cap",
+      "slug": "pet_accessories_costume1",
+      "unit": " 1 pc(s)",
+      "price": 3,
+      "salePrice": 0,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume1.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume1.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 213,
+      "title": "Skeleton Cap",
+      "slug": "pet_accessories_costume2",
+      "unit": " 1 pc(s)",
+      "price": 3,
+      "salePrice": 2.7,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 10,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume2.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume2.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume2.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume2.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume2.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 214,
+      "title": "Ash Jacket",
+      "slug": "pet_accessories_jacket_ash",
+      "unit": " 1 pc(s)",
+      "price": 5,
+      "salePrice": 4,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 20,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_ash.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_ash.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_ash.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_ash.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_ash.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 215,
+      "title": "Red Jacket",
+      "slug": "pet_accessories_jacket_red",
+      "unit": " 1 pc(s)",
+      "price": 5,
+      "salePrice": 0,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_red.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_red.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_red.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_red.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_red.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 216,
+      "title": "Cat Bed Brown",
+      "slug": "pet_accessories_pet_bed1",
+      "unit": " 1 pc(s)",
+      "price": 15,
+      "salePrice": 12,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 20,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed1.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed1.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 217,
+      "title": "Cat Bed Grey",
+      "slug": "pet_accessories_pet_bed2",
+      "unit": " 1 pc(s)",
+      "price": 15,
+      "salePrice": 0,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed2.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed2.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed2.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed2.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed2.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 219,
+      "title": "Dog Bed Brown Red",
+      "slug": "pet_accessories_pet_bed4",
+      "unit": " 1 pc(s)",
+      "price": 15,
+      "salePrice": 0,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed4.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed4.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed4.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed4.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed4.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 220,
+      "title": "Red White Christmas Sweater",
+      "slug": "pet_accessories_red&white_christmas_sweater",
+      "unit": " 1 pc(s)",
+      "price": 10,
+      "salePrice": 0,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_christmas_sweater.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_christmas_sweater.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_christmas_sweater.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_christmas_sweater.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_christmas_sweater.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 221,
+      "title": "Red White Jumper",
+      "slug": "pet_accessories_red&white_jumper1",
+      "unit": " 1 pc(s)",
+      "price": 10,
+      "salePrice": 0,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper1.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper1.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper1.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 224,
+      "title": "Red Christmas Winter Cap",
+      "slug": "pet_accessories_red_crhistmas_winter_cap",
+      "unit": " 1 pc(s)",
+      "price": 10,
+      "salePrice": 0,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 0,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red_crhistmas_winter_cap.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red_crhistmas_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red_crhistmas_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red_crhistmas_winter_cap.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red_crhistmas_winter_cap.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 225,
+      "title": "Rainbow Tie",
+      "slug": "pet_accessories_tie",
+      "unit": " 1 pc(s)",
+      "price": 2,
+      "salePrice": 1.5,
+      "description": "A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.",
+      "discountInPercent": 25,
+      "type": "GROCERY",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_tie.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_tie.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_tie.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_tie.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_tie.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 57,
+          "title": "Pet Care",
+          "slug": "petcare",
+          "__typename": "Category"
+        },
+        {
+          "id": 61,
+          "title": "Pet Accessories",
+          "slug": "petaccessories",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}

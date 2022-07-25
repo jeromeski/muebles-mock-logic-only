@@ -1,0 +1,924 @@
+{
+  "items": [
+    {
+      "id": 596,
+      "title": "White Cozy Chair",
+      "slug": "white2",
+      "unit": "1 pc(s)",
+      "price": 160,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 125,
+          "title": "Cozy Chair",
+          "slug": "cozy_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 597,
+      "title": "Ash Cozy Chair",
+      "slug": "ashchair",
+      "unit": "1 pc(s)",
+      "price": 200,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ash_chair_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ash_chair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ash_chair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ash_chair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ash_chair.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 125,
+          "title": "Cozy Chair",
+          "slug": "cozy_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 598,
+      "title": "Black Cozy Chair",
+      "slug": "blackcozy",
+      "unit": "1 pc(s)",
+      "price": 170,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Black_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Black.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Black.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Black.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Black.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 125,
+          "title": "Cozy Chair",
+          "slug": "cozy_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 599,
+      "title": "Relax White Cozy Chair",
+      "slug": "relax",
+      "unit": "1 pc(s)",
+      "price": 200,
+      "salePrice": 180,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Relax_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Relax.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Relax.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Relax.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Relax.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 125,
+          "title": "Cozy Chair",
+          "slug": "cozy_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 600,
+      "title": "Black & Brown Cozy Chair",
+      "slug": "blackbrown",
+      "unit": "1 pc(s)",
+      "price": 200,
+      "salePrice": 170,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Black%26Brown_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Black%26Brown.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Black%26Brown.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Black%26Brown.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Black%26Brown.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 125,
+          "title": "Cozy Chair",
+          "slug": "cozy_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 601,
+      "title": "Oak Timber Rocking Chair",
+      "slug": "oaktimber",
+      "unit": "1 pc(s)",
+      "price": 200,
+      "salePrice": 170,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_Timber_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_Timber.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_Timber.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_Timber.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_Timber.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 126,
+          "title": "Rocking Chair",
+          "slug": "rocking_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 602,
+      "title": "White Semi Wooden Rocking Chair",
+      "slug": "whitesemiwooden",
+      "unit": "1 pc(s)",
+      "price": 180,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Semi_Wooden_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Semi_Wooden.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Semi_Wooden.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Semi_Wooden.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Semi_Wooden.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 126,
+          "title": "Rocking Chair",
+          "slug": "rocking_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 603,
+      "title": "Sky Blue Semi Wooden Rocking Chair",
+      "slug": "skybluewooden",
+      "unit": "1 pc(s)",
+      "price": 200,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Blue_Semi_Wooden_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Blue_Semi_Wooden.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Blue_Semi_Wooden.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Blue_Semi_Wooden.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Blue_Semi_Wooden.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 126,
+          "title": "Rocking Chair",
+          "slug": "rocking_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 604,
+      "title": "Pine Timber Rocking Chair",
+      "slug": "pinetimber",
+      "unit": "1 pc(s)",
+      "price": 160,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pine_Timber_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pine_Timber.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pine_Timber.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pine_Timber.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pine_Timber.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 126,
+          "title": "Rocking Chair",
+          "slug": "rocking_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 605,
+      "title": "White Wooden Rocking Chair",
+      "slug": "whitechair",
+      "unit": "1 pc(s)",
+      "price": 150,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Wooden_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Wooden.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Wooden.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Wooden.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Wooden.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 126,
+          "title": "Rocking Chair",
+          "slug": "rocking_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 606,
+      "title": "Cider Sleek Rocking Chair",
+      "slug": "cidersleek",
+      "unit": "1 pc(s)",
+      "price": 180,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cider_Sleek_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cider_Sleek.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cider_Sleek.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cider_Sleek.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cider_Sleek.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 126,
+          "title": "Rocking Chair",
+          "slug": "rocking_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 607,
+      "title": "Blue Plastic Chair",
+      "slug": "plastic",
+      "unit": "1 pc(s)",
+      "price": 60,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Plastic%26Steel_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Plastic%26Steel.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Plastic%26Steel.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Plastic%26Steel.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Plastic%26Steel.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 127,
+          "title": "Single Chair",
+          "slug": "single_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 608,
+      "title": "Simple Beech Chair",
+      "slug": "simplebeech",
+      "unit": "1 pc(s)",
+      "price": 90,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Beech_Simple_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Beech_Simple.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Beech_Simple.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Beech_Simple.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Beech_Simple.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 127,
+          "title": "Single Chair",
+          "slug": "single_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 609,
+      "title": "Cider Sleek Rocking Chair",
+      "slug": "cidersleek",
+      "unit": "1 pc(s)",
+      "price": 100,
+      "salePrice": 80,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 20,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pine_White_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pine_White.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pine_White.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pine_White.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pine_White.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 127,
+          "title": "Single Chair",
+          "slug": "single_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 610,
+      "title": "Shagun  Chair",
+      "slug": "shagunchair",
+      "unit": "1 pc(s)",
+      "price": 650,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Shagun_Simple_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Shagun_Simple.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Shagun_Simple.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Shagun_Simple.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Shagun_Simple.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 127,
+          "title": "Single Chair",
+          "slug": "single_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 611,
+      "title": "Cider Sleek Rocking Chair",
+      "slug": "cidersleek",
+      "unit": "1 pc(s)",
+      "price": 180,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cider_Sleek_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cider_Sleek.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cider_Sleek.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cider_Sleek.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cider_Sleek.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 127,
+          "title": "Single Chair",
+          "slug": "single_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 612,
+      "title": "White Cup Chair",
+      "slug": "whitecup",
+      "unit": "1 pc(s)",
+      "price": 120,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Cup_Shape_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Cup_Shape.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Cup_Shape.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Cup_Shape.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/White_Cup_Shape.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 127,
+          "title": "Single Chair",
+          "slug": "single_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 613,
+      "title": "Wooden Godfather Chair",
+      "slug": "woodengodfather",
+      "unit": "1 pc(s)",
+      "price": 50,
+      "salePrice": 45,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Godfather_Chair_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Godfather_Chair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Godfather_Chair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Godfather_Chair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Godfather_Chair.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 127,
+          "title": "Single Chair",
+          "slug": "single_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 614,
+      "title": " Oak White Chair",
+      "slug": "oakwhitechair",
+      "unit": "1 pc(s)",
+      "price": 70,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_White_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_White.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_White.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_White.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_White.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 127,
+          "title": "Single Chair",
+          "slug": "single_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 615,
+      "title": "King Chair",
+      "slug": "kingchair",
+      "unit": "1 pc(s)",
+      "price": 90,
+      "salePrice": 0,
+      "description": "One of the basic pieces of furniture, a chair is a type of seat. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/King_Chair_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/King_Chair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/King_Chair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/King_Chair.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/King_Chair.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 124,
+          "title": "Chair",
+          "slug": "chair",
+          "__typename": "Category"
+        },
+        {
+          "id": 127,
+          "title": "Single Chair",
+          "slug": "single_chair",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}

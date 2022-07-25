@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 76,
+      "title": "Levi'S Western Denim Shirt",
+      "slug": "levis-western-denim-shirt",
+      "unit": "1 pc(s)",
+      "price": 55,
+      "salePrice": 44,
+      "description": "Black cotton shearling denim jacket from Levi's featuring long sleeves, a front button fastening, two chest pockets, side slit pockets, a shearling lining and a logo tag.",
+      "discountInPercent": 20,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/LEVI'S_WESTERN.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/LEVI'S_WESTERN.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/LEVI'S_WESTERN.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/LEVI'S_WESTERN.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/LEVI'S_WESTERN.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 34,
+          "title": "Shirts",
+          "slug": "shirts",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 77,
+      "title": "Ivory Check Longline Tunic Shirt",
+      "slug": "ivory-check-longline-tunic-shirt",
+      "unit": "1 pc(s)",
+      "price": 40,
+      "salePrice": 0,
+      "description": "Black cotton shearling denim jacket from Levi's featuring long sleeves, a front button fastening, two chest pockets, side slit pockets, a shearling lining and a logo tag.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/IVORY_CHECK.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/IVORY_CHECK.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/IVORY_CHECK.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/IVORY_CHECK.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/IVORY_CHECK.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 34,
+          "title": "Shirts",
+          "slug": "shirts",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}

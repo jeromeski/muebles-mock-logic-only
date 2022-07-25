@@ -1,0 +1,1430 @@
+{
+  "items": [
+    {
+      "id": 616,
+      "title": "Chesterfield Double Sofa",
+      "slug": "chesterfielddouble",
+      "unit": "1 pc(s)",
+      "price": 560,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Chesterfield_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Chesterfield_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Chesterfield_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Chesterfield_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Chesterfield_2Seater.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 617,
+      "title": "Garnet Double Sofa",
+      "slug": "garnetdouble",
+      "unit": "1 pc(s)",
+      "price": 800,
+      "salePrice": 720,
+      "description": "a piece of furniture, also called a couch",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Garnet_2Seater_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Garnet_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Garnet_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Garnet_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Garnet_2Seater.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 618,
+      "title": "Lands Krona Double SOfa",
+      "slug": "landskrona",
+      "unit": "1 pc(s)",
+      "price": 600,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Landskrona_2Seater_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Landskrona_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Landskrona_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Landskrona_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Landskrona_2Seater.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 619,
+      "title": "Pebble Forest Green Sofa",
+      "slug": "pebbleforest",
+      "unit": "1 pc(s)",
+      "price": 850,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pebble_3_Seater_Forest_Green_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pebble_3_Seater_Forest_Green.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pebble_3_Seater_Forest_Green.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pebble_3_Seater_Forest_Green.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pebble_3_Seater_Forest_Green.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 620,
+      "title": "Purcell Double Sofa",
+      "slug": "purcelldouble",
+      "unit": "1 pc(s)",
+      "price": 550,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch. ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Purcell_2Seater_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Purcell_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Purcell_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Purcell_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Purcell_2Seater.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 621,
+      "title": "Super Soft Grey Double Sofa",
+      "slug": "supersoft",
+      "unit": "1 pc(s)",
+      "price": 700,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Super_Soft_Gray_2_Seater_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Super_Soft_Gray_2_Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Super_Soft_Gray_2_Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Super_Soft_Gray_2_Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Super_Soft_Gray_2_Seater.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 622,
+      "title": "Swyft Double Sofa",
+      "slug": "swyftdouble",
+      "unit": "1 pc(s)",
+      "price": 600,
+      "salePrice": 570,
+      "description": "a piece of furniture, also called a couch",
+      "discountInPercent": 5,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Swyft_2Seater_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Swyft_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Swyft_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Swyft_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Swyft_2Seater.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 623,
+      "title": "Ace Double Sofa",
+      "slug": "acedouble",
+      "unit": "1 pc(s)",
+      "price": 750,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ace_2Seater_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ace_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ace_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ace_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ace_2Seater.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 624,
+      "title": "Allie Double Sofa",
+      "slug": "alliedouble",
+      "unit": "1 pc(s)",
+      "price": 700,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Allie_2Seater_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Allie_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Allie_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Allie_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Allie_2Seater.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 625,
+      "title": "Antero Black Double Sofa",
+      "slug": "antero",
+      "unit": "1 pc(s)",
+      "price": 950,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Antero_2Seater_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Antero_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Antero_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Antero_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Antero_2Seater.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 626,
+      "title": "Castlery Double Sofa",
+      "slug": "castlerydouble",
+      "unit": "1 pc(s)",
+      "price": 680,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Castlery_2Seater_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Castlery_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Castlery_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Castlery_2Seater.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Castlery_2Seater.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 129,
+          "title": "Double Sofa",
+          "slug": "double_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 627,
+      "title": "Tara Brown Single Sofa",
+      "slug": "tarasingle",
+      "unit": "1 pc(s)",
+      "price": 350,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Tara_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Tara.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Tara.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Tara.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Tara.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 130,
+          "title": "Single Sofa",
+          "slug": "single_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 628,
+      "title": "Aarya Yellow Single Sofa",
+      "slug": "aaryasingle",
+      "unit": "1 pc(s)",
+      "price": 320,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aarya_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aarya.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aarya.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aarya.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aarya.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 130,
+          "title": "Single Sofa",
+          "slug": "single_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 629,
+      "title": "Safari Ash Single Sofa",
+      "slug": "safarisingle",
+      "unit": "1 pc(s)",
+      "price": 280,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Safari_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Safari.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Safari.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Safari.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Safari.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 130,
+          "title": "Single Sofa",
+          "slug": "single_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 630,
+      "title": "Vester Bro Single Sofa",
+      "slug": "vesterbrosingle",
+      "unit": "1 pc(s)",
+      "price": 310,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Vesterbro_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Vesterbro.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Vesterbro.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Vesterbro.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Vesterbro.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 130,
+          "title": "Single Sofa",
+          "slug": "single_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 631,
+      "title": "Aero Stylish Single Sofa",
+      "slug": "aerosingle",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 270,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aero_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aero.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aero.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aero.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Aero.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 130,
+          "title": "Single Sofa",
+          "slug": "single_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 632,
+      "title": "Draped Single Sofa",
+      "slug": "drapedsingle",
+      "unit": "1 pc(s)",
+      "price": 360,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Draped_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Draped.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Draped.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Draped.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Draped.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 130,
+          "title": "Single Sofa",
+          "slug": "single_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 633,
+      "title": "Ellie Black Sinlge Sofa",
+      "slug": "elliesingle",
+      "unit": "1 pc(s)",
+      "price": 250,
+      "salePrice": 200,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 20,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ellie_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ellie.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ellie.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ellie.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ellie.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 130,
+          "title": "Single Sofa",
+          "slug": "single_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 634,
+      "title": "Pompeii Deluxe Sinlge Sofa",
+      "slug": "pompeiisingle",
+      "unit": "1 pc(s)",
+      "price": 400,
+      "salePrice": 360,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pompeii_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pompeii.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pompeii.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pompeii.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Pompeii.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 130,
+          "title": "Single Sofa",
+          "slug": "single_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 635,
+      "title": "Recliner Brown Single Sofa",
+      "slug": "reclinersingle",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Recliner_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Recliner.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Recliner.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Recliner.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Recliner.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 130,
+          "title": "Single Sofa",
+          "slug": "single_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 636,
+      "title": "MGM Luxary Sofa",
+      "slug": "mgmluxarysofa",
+      "unit": "1 pc(s)",
+      "price": 800,
+      "salePrice": 720,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/MGM_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/MGM.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/MGM.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/MGM.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/MGM.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 131,
+          "title": "Sofa set",
+          "slug": "sofa_set",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 637,
+      "title": "RST Luxary Sofa",
+      "slug": "rstluxarysofa",
+      "unit": "1 pc(s)",
+      "price": 800,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/RST_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/RST.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/RST.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/RST.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/RST.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 130,
+          "title": "Single Sofa",
+          "slug": "single_sofa",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 638,
+      "title": "Minotti Sofa Set",
+      "slug": "minottisofaset",
+      "unit": "1 pc(s)",
+      "price": 900,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Minotti_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Minotti_thumb.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Minotti_thumb.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Minotti_thumb.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Minotti_thumb.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 131,
+          "title": "Sofa set",
+          "slug": "sofa_set",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 639,
+      "title": "Sibeili Cane Sofa Set",
+      "slug": "sibeilicanesofa",
+      "unit": "1 pc(s)",
+      "price": 700,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/SIBEILI_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/SIBEILI.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/SIBEILI.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/SIBEILI.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/SIBEILI.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 131,
+          "title": "Sofa set",
+          "slug": "sofa_set",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 640,
+      "title": "Sinkuku Sofa With Cushion",
+      "slug": "sinkukusofa",
+      "unit": "1 pc(s)",
+      "price": 750,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/SINKUKU_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/SINKUKU.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/SINKUKU.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/SINKUKU.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/SINKUKU.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 131,
+          "title": "Sofa set",
+          "slug": "sofa_set",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 641,
+      "title": "Yuxin Sofa Set",
+      "slug": "yuxinsofaset",
+      "unit": "1 pc(s)",
+      "price": 1400,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Yuxin_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Yuxin.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Yuxin.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Yuxin.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Yuxin.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 131,
+          "title": "Sofa set",
+          "slug": "sofa_set",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 642,
+      "title": "Bliss Dark Grey Sofa",
+      "slug": "blissdarkgrey",
+      "unit": "1 pc(s)",
+      "price": 80,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Bliss_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Bliss.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Bliss.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Bliss.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Bliss.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 131,
+          "title": "Sofa set",
+          "slug": "sofa_set",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 643,
+      "title": "Giantex Sofa",
+      "slug": "giantex",
+      "unit": "1 pc(s)",
+      "price": 800,
+      "salePrice": 760,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 5,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Giantex_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Giantex.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Giantex.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Giantex.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Giantex.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 131,
+          "title": "Sofa set",
+          "slug": "sofa_set",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 644,
+      "title": "Longhi Sofa Set",
+      "slug": "longhisofaset",
+      "unit": "1 pc(s)",
+      "price": 900,
+      "salePrice": 810,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Longhi_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Longhi.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Longhi.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Longhi.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Longhi.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 131,
+          "title": "Sofa set",
+          "slug": "sofa_set",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 645,
+      "title": "Maka Designer Sofa Set",
+      "slug": "makasofaset",
+      "unit": "1 pc(s)",
+      "price": 1250,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/MAKA_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/MAKA.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/MAKA.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/MAKA.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/MAKA.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 131,
+          "title": "Sofa set",
+          "slug": "sofa_set",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 646,
+      "title": "Malabar Leather Sofa Set",
+      "slug": "malabarsofaset",
+      "unit": "1 pc(s)",
+      "price": 1200,
+      "salePrice": 0,
+      "description": "a piece of furniture, also called a couch ",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Malabar_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Malabar.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Malabar.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Malabar.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Malabar.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 128,
+          "title": "Sofa",
+          "slug": "sofa",
+          "__typename": "Category"
+        },
+        {
+          "id": 131,
+          "title": "Sofa set",
+          "slug": "sofa_set",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}

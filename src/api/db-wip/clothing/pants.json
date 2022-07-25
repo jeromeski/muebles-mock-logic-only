@@ -1,0 +1,970 @@
+{
+  "items": [
+    {
+      "id": 78,
+      "title": "Vero Moda Coco Wide Pant",
+      "slug": "vero-moda-coco-wide-pant",
+      "unit": "1 pc(s)",
+      "price": 45,
+      "salePrice": 36,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 20,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/VERO_MODA.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/VERO_MODA.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/VERO_MODA.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/VERO_MODA.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/VERO_MODA.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 30,
+          "title": "Chinos",
+          "slug": "chinos",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 79,
+      "title": "Skechers Kallen Fleece Jog Pant",
+      "slug": "skechers-kallen-fleece-jog-pant",
+      "unit": "1 pc(s)",
+      "price": 30,
+      "salePrice": 21,
+      "description": "Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.",
+      "discountInPercent": 30,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/SKECHERS_KALLEN.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/SKECHERS_KALLEN.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/SKECHERS_KALLEN.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/SKECHERS_KALLEN.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/SKECHERS_KALLEN.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 31,
+          "title": "Sports",
+          "slug": "sports",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 80,
+      "title": "Reebok French Terry Jog Pants",
+      "slug": "reebok-french-terry-jog-pants",
+      "unit": "1 pc(s)",
+      "price": 35,
+      "salePrice": 28,
+      "description": "Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.",
+      "discountInPercent": 20,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/REEBOK.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/REEBOK.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/REEBOK.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/REEBOK.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/REEBOK.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 31,
+          "title": "Sports",
+          "slug": "sports",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 81,
+      "title": "White Infinity 4 Way Stretch Skinny Jeans Regular Length",
+      "slug": "white-infinity-4-way-stretch-skinny-jeans-regular-length",
+      "unit": "1 pc(s)",
+      "price": 60,
+      "salePrice": 54,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 10,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/WHITE_INFINITY.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/WHITE_INFINITY.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/WHITE_INFINITY.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/WHITE_INFINITY.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/WHITE_INFINITY.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 29,
+          "title": "Jeans",
+          "slug": "jeans",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 82,
+      "title": "Junarose Queen Skinny Jean",
+      "slug": "junarose-queen-skinny-jean",
+      "unit": "1 pc(s)",
+      "price": 60,
+      "salePrice": 0,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/JUNAROSE_QUEEN.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/JUNAROSE_QUEEN.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/JUNAROSE_QUEEN.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/JUNAROSE_QUEEN.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/JUNAROSE_QUEEN.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 31,
+          "title": "Jeans",
+          "slug": "jeans",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 476,
+      "title": "Roadster",
+      "slug": "roadster",
+      "unit": "1 pc(s)",
+      "price": 45,
+      "salePrice": 36,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 20,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/roadster.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/roadster.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/roadster.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/roadster.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/roadster.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 30,
+          "title": "Chinos",
+          "slug": "chinos",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 477,
+      "title": "Richtan Hero",
+      "slug": "RICHTAN_hero",
+      "unit": "1 pc(s)",
+      "price": 45,
+      "salePrice": 40.5,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 10,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/RICHTAN_hero.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/RICHTAN_hero.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/RICHTAN_hero.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/RICHTAN_hero.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/RICHTAN_hero.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 30,
+          "title": "Chinos",
+          "slug": "chinos",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 478,
+      "title": "Invictus",
+      "slug": "invictus",
+      "unit": "1 pc(s)",
+      "price": 45,
+      "salePrice": 0,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Invictus.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Invictus.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Invictus.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Invictus.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Invictus.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 30,
+          "title": "Chinos",
+          "slug": "chinos",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 479,
+      "title": "High Lander Light Khaki",
+      "slug": "High_Lander_Light_Khaki",
+      "unit": "1 pc(s)",
+      "price": 30,
+      "salePrice": 0,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Light_Khaki.jpeg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Light_Khaki.jpeg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Light_Khaki.jpeg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Light_Khaki.jpeg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Light_Khaki.jpeg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 30,
+          "title": "Chinos",
+          "slug": "chinos",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 480,
+      "title": "High Lander Deep Khaki",
+      "slug": "High_Lander_Deep_Khaki",
+      "unit": "1 pc(s)",
+      "price": 30,
+      "salePrice": 0,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Deep_Khaki.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Deep_Khaki.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Deep_Khaki.jpeg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Deep_Khaki.jpeg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Deep_Khaki.jpeg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 30,
+          "title": "Chinos",
+          "slug": "chinos",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 481,
+      "title": "High Lander Deep Khaki",
+      "slug": "A.P.C._classic_chinos",
+      "unit": "1 pc(s)",
+      "price": 35,
+      "salePrice": 0,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/A.P.C._classic_chinos.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/A.P.C._classic_chinos.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/A.P.C._classic_chinos.jpeg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/A.P.C._classic_chinos.jpeg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/A.P.C._classic_chinos.jpeg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 30,
+          "title": "Chinos",
+          "slug": "chinos",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 508,
+      "title": "High Lander Fade Jeans",
+      "slug": "High_Lander",
+      "unit": "1 pc(s)",
+      "price": 60,
+      "salePrice": 54,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 10,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 29,
+          "title": "Jeans",
+          "slug": "jeans",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 509,
+      "title": "Roadster Fade Jeans",
+      "slug": "Roadsterr",
+      "unit": "1 pc(s)",
+      "price": 80,
+      "salePrice": 0,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 29,
+          "title": "Jeans",
+          "slug": "jeans",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 510,
+      "title": "Scotch Soda Ralson Stone And Sand Jeans",
+      "slug": "Scotch_soda_ralston_stone_and_sand",
+      "unit": "1 pc(s)",
+      "price": 50,
+      "salePrice": 0,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_ralston_stone_and_sand.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_ralston_stone_and_sand.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_ralston_stone_and_sand.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_ralston_stone_and_sand.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_ralston_stone_and_sand.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 29,
+          "title": "Jeans",
+          "slug": "jeans",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 511,
+      "title": "Scotch Soda Skim Jeans",
+      "slug": "Scotch_soda_skim",
+      "unit": "1 pc(s)",
+      "price": 50,
+      "salePrice": 0,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_skim.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_skim.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_skim.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_skim.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_skim.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 29,
+          "title": "Jeans",
+          "slug": "jeans",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 512,
+      "title": "Wrogn Jeans",
+      "slug": "Wrogn.jpg",
+      "unit": "1 pc",
+      "price": 70,
+      "salePrice": 0,
+      "description": "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Wrogn.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Wrogn.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Wrogn.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Wrogn.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Wrogn.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 29,
+          "title": "Jeans",
+          "slug": "jeans",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 513,
+      "title": "2Go Jog Pant",
+      "slug": "2Go",
+      "unit": "1 pc",
+      "price": 30,
+      "salePrice": 21,
+      "description": "Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.",
+      "discountInPercent": 30,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/2Go.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/2Go.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/2Go.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/2Go.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/2Go.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 31,
+          "title": "Sports",
+          "slug": "sports",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 514,
+      "title": "Addidas Trouser",
+      "slug": "Addidas",
+      "unit": "1 pc(s)",
+      "price": 30,
+      "salePrice": 27,
+      "description": "Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.",
+      "discountInPercent": 10,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Addidas.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Addidas.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Addidas.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Addidas.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Addidas.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 31,
+          "title": "Sports",
+          "slug": "sports",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 515,
+      "title": "Champion Trouser",
+      "slug": "Champion",
+      "unit": "1 pc",
+      "price": 25,
+      "salePrice": 0,
+      "description": "Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Champion.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Champion.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Champion.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Champion.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Champion.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 31,
+          "title": "Sports",
+          "slug": "sports",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 516,
+      "title": "Ellesse Candreva Joggers Pant",
+      "slug": "Ellesse_candreva_joggers_dress_blue",
+      "unit": "1 pc",
+      "price": 20,
+      "salePrice": 0,
+      "description": "Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Ellesse_candreva_joggers_dress_blue.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Ellesse_candreva_joggers_dress_blue.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Ellesse_candreva_joggers_dress_blue.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Ellesse_candreva_joggers_dress_blue.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Ellesse_candreva_joggers_dress_blue.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 31,
+          "title": "Sports",
+          "slug": "sports",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 517,
+      "title": "Hubberholme Trouser",
+      "slug": "Hubberholme",
+      "unit": "1 pc",
+      "price": 20,
+      "salePrice": 0,
+      "description": "Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.",
+      "discountInPercent": 0,
+      "type": "CLOTHING",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/Hubberholme.jpg",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Hubberholme.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Hubberholme.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Hubberholme.jpg",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/Hubberholme.jpg",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 28,
+          "title": "Pants",
+          "slug": "pants",
+          "__typename": "Category"
+        },
+        {
+          "id": 31,
+          "title": "Sports",
+          "slug": "sports",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}

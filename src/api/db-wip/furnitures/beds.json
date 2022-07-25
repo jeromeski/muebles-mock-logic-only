@@ -1,0 +1,1109 @@
+{
+  "items": [
+    {
+      "id": 571,
+      "title": "Ash Double Bed",
+      "slug": "ash_bed",
+      "unit": "1 pc(s)",
+      "price": 250,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ash_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ash.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ash.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ash.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Ash.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 121,
+          "title": "Master Bed",
+          "slug": "master_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 572,
+      "title": "Brown Hardwood Double Bed",
+      "slug": "Hardwoods",
+      "unit": "1 pc(s)",
+      "price": 250,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hardwoods_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hardwoods.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hardwoods.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hardwoods.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Hardwoods.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 121,
+          "title": "Master Bed",
+          "slug": "master_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 573,
+      "title": "Deluxe Mahagony Double Bed",
+      "slug": "Mahogany",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Mahogany_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Mahogany.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Mahogany.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Mahogany.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Mahogany.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 121,
+          "title": "Master Bed",
+          "slug": "master_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 574,
+      "title": "Supreme Oak Double Bed",
+      "slug": "Oak",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 270,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Oak.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 121,
+          "title": "Master Bed",
+          "slug": "master_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 575,
+      "title": "Partex Coushoned Double Bed",
+      "slug": "Partex",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 270,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Partex_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Partex.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Partex.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Partex.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Partex.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 121,
+          "title": "Master Bed",
+          "slug": "master_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 576,
+      "title": "Vince Ottoman Double Bed",
+      "slug": "VInce",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Beech_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Beech.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Beech.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Beech.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Beech.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 121,
+          "title": "Master Bed",
+          "slug": "master_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 577,
+      "title": "Cedar Double Bed",
+      "slug": "Cedar",
+      "unit": "1 pc(s)",
+      "price": 400,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cedar_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cedar.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cedar.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cedar.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Cedar.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 121,
+          "title": "Master Bed",
+          "slug": "master_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 578,
+      "title": "Green Elm wood Double Bed",
+      "slug": "Elm",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elm_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elm.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elm.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elm.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elm.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 121,
+          "title": "Master Bed",
+          "slug": "master_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 579,
+      "title": "Grey Fir Double Bed",
+      "slug": "fir",
+      "unit": "1 pc(s)",
+      "price": 480,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Fir_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Fir.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Fir.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Fir.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Fir.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 121,
+          "title": "Master Bed",
+          "slug": "master_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 580,
+      "title": "Ruby Semi Double Bed",
+      "slug": "reuby",
+      "unit": "1 pc(s)",
+      "price": 480,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/ruby_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/ruby.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/ruby.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/ruby.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/ruby.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 123,
+          "title": "Semi Double Bed",
+          "slug": "semi_double_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 581,
+      "title": "Andes Deco Semi Double Bed",
+      "slug": "andes_deco",
+      "unit": "1 pc(s)",
+      "price": 320,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/andes_deco_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/andes_deco.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/andes_deco.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/andes_deco.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/andes_deco.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 123,
+          "title": "Semi Double Bed",
+          "slug": "semi_double_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 582,
+      "title": "Andes Wide Semi Double Bed",
+      "slug": "andes_weco",
+      "unit": "1 pc(s)",
+      "price": 340,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/ades_wide_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/andes_wide.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/andes_wide.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/andes_wide.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/andes_wide.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 123,
+          "title": "Semi Double Bed",
+          "slug": "semi_double_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 583,
+      "title": "Walnut Semi Double Bed",
+      "slug": "walnut",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 270,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Walnut_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Walnut.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Walnut.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Walnut.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Walnut.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 123,
+          "title": "Semi Double Bed",
+          "slug": "semi_double_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 585,
+      "title": "Haven Storage Semi Double Bed",
+      "slug": "haven_storage",
+      "unit": "1 pc(s)",
+      "price": 400,
+      "salePrice": 340,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 15,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/haven_storage_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/haven_storage.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/haven_storage.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/haven_storage.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/haven_storage.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 123,
+          "title": "Semi Double Bed",
+          "slug": "semi_double_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 586,
+      "title": "Elm Single Bed",
+      "slug": "elm2",
+      "unit": "1 pc(s)",
+      "price": 400,
+      "salePrice": 340,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 15,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elm_single_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elm_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elm_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elm_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elm_single.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 122,
+          "title": "Single Bed",
+          "slug": "single_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 587,
+      "title": "Elmy Sinlge Bed",
+      "slug": "Elmy2",
+      "unit": "1 pc(s)",
+      "price": 400,
+      "salePrice": 340,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 15,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elmy_single_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elmy_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elmy_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elmy_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Elmy_single.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 122,
+          "title": "Single Bed",
+          "slug": "single_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 588,
+      "title": "Fredd Single Bed",
+      "slug": "Fredd2",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/haven_storage_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Fredd_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Fredd_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Fredd_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Fredd_single.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 122,
+          "title": "Single Bed",
+          "slug": "single_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 589,
+      "title": "Hattie Single Bed",
+      "slug": "hattie2",
+      "unit": "1 pc(s)",
+      "price": 280,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/hattie_single_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/hattie_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/hattie_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/hattie_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/hattie_single.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 122,
+          "title": "Single Bed",
+          "slug": "single_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 590,
+      "title": "Alana Single Bed",
+      "slug": "alana2",
+      "unit": "1 pc(s)",
+      "price": 290,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Alana_single_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Alana_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Alana_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Alana_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Alana_single.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 122,
+          "title": "Single Bed",
+          "slug": "single_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 591,
+      "title": "Atlanta Single Bed",
+      "slug": "atlanta2",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 270,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 10,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Atlanta_single_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Atlanta_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Atlanta_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Atlanta_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Atlanta_single.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 122,
+          "title": "Single Bed",
+          "slug": "single_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+
+    {
+      "id": 592,
+      "title": "Sabine Bed",
+      "slug": "sabine",
+      "unit": "1 pc(s)",
+      "price": 320,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Sabine__single_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Sabine_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Sabine_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Sabine_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Sabine_single.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 122,
+          "title": "Single Bed",
+          "slug": "single_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 593,
+      "title": "Teak Single Bed",
+      "slug": "teak",
+      "unit": "1 pc(s)",
+      "price": 310,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Teak_single_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Teak_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Teak_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Teak_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Teak_single.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 122,
+          "title": "Single Bed",
+          "slug": "single_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 594,
+      "title": "Burcot Single Bed",
+      "slug": "burcot2",
+      "unit": "1 pc(s)",
+      "price": 380,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Burcot_single_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Burcot_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Burcot_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Burcot_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Burcot_single.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 122,
+          "title": "Single Bed",
+          "slug": "single_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    },
+    {
+      "id": 595,
+      "title": "Drio Single Bed",
+      "slug": "driosinglechari",
+      "unit": "1 pc(s)",
+      "price": 300,
+      "salePrice": 0,
+      "description": "A bed is a piece of furniture which is used as a place to sleep or relax.",
+      "discountInPercent": 0,
+      "type": "FURNITURE",
+      "image": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Drio_single_thumb.png",
+      "author": null,
+      "gallery": [
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Drio_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Drio_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Drio_single.png",
+          "__typename": "Gallery"
+        },
+        {
+          "url": "https://s3.amazonaws.com/redqteam.com/pickbazar/furniture/Drio_single.png",
+          "__typename": "Gallery"
+        }
+      ],
+      "categories": [
+        {
+          "id": 120,
+          "title": "Bed",
+          "slug": "bed",
+          "__typename": "Category"
+        },
+        {
+          "id": 122,
+          "title": "Single Bed",
+          "slug": "single_bed",
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "Product"
+    }
+  ]
+}
