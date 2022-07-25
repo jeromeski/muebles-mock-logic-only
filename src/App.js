@@ -6,6 +6,19 @@ import Home from "./pages/home";
 import Product from "./pages/product";
 import Cart from "./pages/cart";
 import "./styles.css";
+
+import { setConfiguration } from "react-grid-system";
+setConfiguration({
+  containerWidths: [
+    540,
+    740 * 0.75,
+    960 * 0.75,
+    1140 * 0.75,
+    1540 * 0.75,
+    1810 * 0.75
+  ]
+});
+
 function App() {
   return (
     <BrowserRouter>
